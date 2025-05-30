@@ -1,4 +1,4 @@
-# -An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI
+# Análise de Sentimentos com Language Studio no Azure-AI
 
 Capacidade de processamento de linguagem natural
 
